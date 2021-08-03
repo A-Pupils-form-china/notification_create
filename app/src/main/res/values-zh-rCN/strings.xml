@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通知接收</string>
+    <string name="btn1">开始接收</string>
+    <string name="btn2">停止监听</string>
+</resources>

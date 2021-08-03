@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notification_create</string>
+    <string name="btn1">start_listen</string>
+    <string name="btn2">stop_listen</string>
+</resources>
